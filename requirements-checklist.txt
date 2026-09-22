@@ -1,0 +1,16 @@
+MATERIALS & TECHNOLOGY — REQUIREMENTS CHECKLIST
+
+材料 / Material:
+樣品形態 / Sample form:
+基質 / Matrix:
+量測目標 / Measurement objective:
+目標範圍 / Target range:
+樣品數量 / Sample quantity:
+前處理限制 / Preparation constraints:
+場地條件 / Site and utilities:
+驗證條件 / Validation criteria:
+數據追溯 / Data traceability:
+維護與支援 / Maintenance and support:
+
+此清單在本機填寫，不會自動提交資料。
+This checklist is completed locally and does not submit data.
