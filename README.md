@@ -4,7 +4,9 @@ Multilingual corporate website concept for semiconductor materials, inspection e
 
 Traditional Chinese, Simplified Chinese, Japanese and English share reserved layout geometry. Language selection is remembered locally. GitHub Pages uses browser time-zone and language hints; it does not provide exact IP geolocation.
 
-The site has six pages: home, materials, equipment, solar, services and the interactive 3D lab.
+The site has 53 pages: six company/experience pages, three catalog browsing pages and 44 original material, equipment and technical topic pages. Browse by product family, seven industries or fourteen applications. Search and combined filters run locally and can be shared through the URL.
+
+Technical copy is independently written. The reference catalog informed category coverage; supplier descriptions and photographs are not reproduced. Public reference links provide background and imply no partnership. Product availability, specifications and brand representation require separate confirmation.
 
 Images are AI-generated conceptual illustrations, not photographs of company facilities or representations of supplied product models. The 3D lab contains an interactive optical inspection prototype with rotation, part selection and an exploded view. Reconstruction quality remains under review; it is not a validated product model or engineering CAD. The ceramic ring remains a reference image pending multi-view materials.
 
