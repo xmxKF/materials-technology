@@ -13,3 +13,5 @@ Images are AI-generated conceptual illustrations, not photographs of company fac
 This repository contains the public static website only. GitHub Pages publishes the `main` branch root. Relative asset URLs support the repository subpath. The company identity and contact information remain placeholders until confirmed.
 
 The page includes repeatable scroll reveals in both directions and respects reduced-motion preferences. No sign-in is required to view this website. No analytics, external font service, or third-party geolocation request is used.
+
+Every one of the 44 product topics has its own independently generated 3D-style conceptual image. Cards and details for the same topic share that image for recognition. The equipment overview also has a separate image. All 45 additions use optimized WebP assets.
