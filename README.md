@@ -21,3 +21,5 @@ Four user-supplied AI concept films are embedded in Home, Materials, Inspection 
 Contact details are intentionally blank pending confirmation. The multilingual contact form downloads an inquiry to the visitor’s device; it does not send messages or upload form data. The Contact page, homepage section, business CTAs and footer share clear navigation.
 
 The 3D viewer builds the lightweight presentation geometry directly, initializes near the viewport and renders on demand. Contact orbital lights pause outside view or when requested.
+
+The Taste design pass preserves the cyber space identity while refining type, spacing, navigation, surface hierarchy and homepage composition. Existing routes, multilingual content, form behavior, adaptive films and interactive model remain intact. Scroll reveals replay in either direction using viewport observations.
