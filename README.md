@@ -23,3 +23,5 @@ Contact details are intentionally blank pending confirmation. The multilingual c
 The 3D viewer builds the lightweight presentation geometry directly, initializes near the viewport and renders on demand. Contact orbital lights pause outside view or when requested.
 
 The Taste design pass preserves the cyber space identity while refining type, spacing, navigation, surface hierarchy and homepage composition. Existing routes, multilingual content, form behavior, adaptive films and interactive model remain intact. Scroll reveals replay in either direction using viewport observations.
+
+The performance pass supplies 640 px responsive variants for all 44 product topics and five overview images. The solar background now uses WebP. Decorative hero motion pauses offscreen, navigation avoids live backdrop blur, and film controls update independently from video frame rate. All original reference downloads remain available.
